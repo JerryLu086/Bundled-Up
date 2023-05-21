@@ -1,10 +1,10 @@
 modLoader="javafml"
-loaderVersion="[41,)"
+loaderVersion="[40,)"
 license="MIT License"
 
 [[mods]]
     modId="bundled_up"
-    version="1.19.2-1.0.1"
+    version="1.18.2-1.0.1"
     displayName="Bundled Up"
     logoFile="icon.png"
     authors="jerrylu086"
@@ -14,13 +14,13 @@ license="MIT License"
 [[dependencies.bundled_up]]
     modId="forge"
     mandatory=true
-    versionRange="[41,)"
+    versionRange="[40,)"
     ordering="NONE"
     side="BOTH"
 
 [[dependencies.bundled_up]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.19.2,1.20)"
+    versionRange="[1.18.2,1.19)"
     ordering="NONE"
     side="BOTH"
