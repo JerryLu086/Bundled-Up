@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.jerrylu086.bundled_up.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "minVersion": "0.8",
+  "refmap": "bundled_up.refmap.json",
+  "client": [
+    "ItemsMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
